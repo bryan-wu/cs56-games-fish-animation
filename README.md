@@ -12,6 +12,9 @@ YES | mastergberry | jovo123, jcryan | A fish animation
  W14 | jcneally 5pm | jovo123, jcryan | A fish animation
 ```
 ================
+Javadocs:
+https://bryan-wu.github.io/cs56-games-fish-animation/javadoc/
+
 
 # F17 update
 
